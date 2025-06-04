@@ -1,2 +1,2 @@
-# qubit-control-grape
-Python implementation of the GRAPE algorithm for high-fidelity single-qubit state control, including Hamiltonian construction, pulse optimization, Bloch sphere visualization, and fidelity tracking.
+# Numerical Implementation of GRAPE Algorithm for Optimal Quantum State Transfer in a Single Qubit System
+In this project, I implemented the GRAPE (Gradient Ascent Pulse Engineering) algorithm to optimize quantum control pulses for a single qubit system. My objective was to find time-dependent control fields that drive a qubit from a known initial state to a desired target state with high fidelity.
