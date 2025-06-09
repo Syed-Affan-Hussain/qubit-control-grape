@@ -138,7 +138,8 @@ To modify the target state or parameters:
 - Adjust `total_time_qubit`, `num_segments_qubit`, `learning_rate_qubit`, or `num_iterations_qubit` for different optimization settings.
 
 Example output:
-![Example Plots](example_output.png) *(Add your own screenshot to the repository)*
+![View Output](https://github.com/user-attachments/assets/94bba41e-b5e0-4520-af67-88380c2c0e47)
+
 
 ## Code
 
